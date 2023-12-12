@@ -25,7 +25,7 @@ Testing: Assess model performance on unseen data to measure its predictive abili
 
 Evaluation Metrics: Common metrics include Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² score (Coefficient of Determination).
 
-7. Prediction and Interpretation:
+5. Prediction and Interpretation:
    
 Making Predictions: Deploy the trained model to predict house prices for new or unseen data.
 
